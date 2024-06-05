@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "machine-learning-algorithms"
+version = "0.1.0"
+description = "Machine learning algorithms from scratch with Python."
+authors = ["wuihee <wuihee@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^1.26.4"
+matplotlib = "^3.9.0"
+pandas = "^2.2.2"
+scikit-learn = "^1.5.0"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
