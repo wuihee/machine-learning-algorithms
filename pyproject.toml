@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "machine-learning-algorithms"
+name = "mlagos"
 version = "0.1.0"
 description = "Machine learning algorithms from scratch with Python."
 authors = ["wuihee <wuihee@gmail.com>"]
