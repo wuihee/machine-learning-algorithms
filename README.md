@@ -4,21 +4,21 @@
 
 ## Usage
 
-- Install Poetry
+Install Poetry
 
-    ```bash
-    pipx install poetry
-    ```
+```bash
+pipx install poetry
+```
 
-- Clone Repo
+Clone Repo
 
-    ```bash
-    git clone https://github.com/wuihee/machine-learning-algorithms.git
-    cd machine-learning-algorithms
-    ```
+```bash
+git clone https://github.com/wuihee/machine-learning-algorithms.git
+cd machine-learning-algorithms
+```
 
-- Install Dependencies
+Install Dependencies
 
-    ```bash
-    poetry install
-    ```
+```bash
+poetry install
+```
