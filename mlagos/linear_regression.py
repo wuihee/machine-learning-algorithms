@@ -29,8 +29,8 @@ class LinearRegression:
             X (np.ndarray): Training data of shape (n_samples, n_features).
             y (np.ndarray): Target values of shape (n_samples).
         """
-        num_samples, num_features = X.shape
-        self.weights = np.zeros(num_features)
+        n_samples, n_features = X.shape
+        self.weights = np.zeros(n_features)
         self.bias = 0
 
         # Apply gradient descent.
@@ -38,8 +38,8 @@ class LinearRegression:
             y_predict = np.dot(X, self.weights) + self.bias
 
             # Calculate derivatives.
-            dw = (1 / num_samples) * np.dot(X.T, (y_predict - y))
-            db = (1 / num_samples) * np.sum(y_predict - y)
+            dw = (1 / n_samples) * np.dot(X.T, (y_predict - y))
+            db = (1 / n_samples) * np.sum(y_predict - y)
 
             # Update model parameters.
             self.weights -= self.lr * dw
