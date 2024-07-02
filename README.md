@@ -1,6 +1,7 @@
 # Machine Learning Algorithms
 
-1. [Linear Regression](./notebooks/1-linear-regression.ipynb)
+1. [Linear Regression](./notebooks/linear-regression.ipynb)
+2. [Logistic Regression](./notebooks/logistic-regression.ipynb)
 
 ## Usage
 
