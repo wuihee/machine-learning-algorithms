@@ -27,3 +27,13 @@ Install Dependencies
 ```bash
 poetry install
 ```
+
+Example Usage
+
+```python
+from mlagos import LinearRegression
+
+clf = LinearRegression()
+clf.fit(X_train, y_train)
+pred = clf.pred(X_test)
+```
