@@ -5,7 +5,7 @@
 3. Decision Trees
 4. Random Forest
 5. XGBoost
-6. K-Means
+6. [K-Means](./notebooks/k-means.ipynb)
 
 ## Usage
 
