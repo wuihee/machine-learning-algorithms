@@ -6,6 +6,7 @@
 4. Random Forest
 5. XGBoost
 6. [K-Means](./notebooks/k-means.ipynb)
+7. Gaussian Mixture Model (GMM)
 
 ## Usage
 
