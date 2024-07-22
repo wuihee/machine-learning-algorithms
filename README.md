@@ -1,12 +1,16 @@
 # Machine Learning Algorithms
 
-1. [Linear Regression](./notebooks/linear-regression.ipynb)
-2. [Logistic Regression](./notebooks/logistic-regression.ipynb)
-3. Decision Trees
-4. Random Forest
-5. XGBoost
-6. [K-Means](./notebooks/k-means.ipynb)
-7. Gaussian Mixture Model (GMM)
+- [Linear Regression](./notebooks/linear-regression.ipynb)
+- [Logistic Regression](./notebooks/logistic-regression.ipynb)
+- Decision Trees
+- Random Forest
+- XGBoost
+- [K-Means](./notebooks/k-means.ipynb)
+- Anomaly Detection
+  - Gaussian Mixture Model (GMM)
+- Recommender Systems
+  - Collaborative Filtering
+  - Content-Based Filtering
 
 ## Usage
 
