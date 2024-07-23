@@ -11,6 +11,7 @@
 - Recommender Systems
   - Collaborative Filtering
   - Content-Based Filtering
+- Principle Component Analysis (PCA)
 
 ## Usage
 
