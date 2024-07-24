@@ -3,8 +3,9 @@
 - [Linear Regression](./notebooks/linear-regression.ipynb)
 - [Logistic Regression](./notebooks/logistic-regression.ipynb)
 - Decision Trees
-- Random Forest
-- XGBoost
+- Ensemble
+  - Random Forest
+  - XGBoost
 - [K-Means](./notebooks/k-means.ipynb)
 - Anomaly Detection
   - Gaussian Mixture Model (GMM)
@@ -12,6 +13,7 @@
   - Collaborative Filtering
   - Content-Based Filtering
 - Principle Component Analysis (PCA)
+- Reinforcement Learning
 
 ## Usage
 
