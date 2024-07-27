@@ -2,7 +2,7 @@
 
 - [Linear Regression](./notebooks/linear-regression.ipynb)
 - [Logistic Regression](./notebooks/logistic-regression.ipynb)
-- Decision Trees
+- [Decision Tree](./notebooks/decision-tree.ipynb)
 - Ensemble
   - Random Forest
   - XGBoost
