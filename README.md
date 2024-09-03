@@ -9,6 +9,7 @@
 - [K-Means](./notebooks/k-means.ipynb)
 - Anomaly Detection
   - Gaussian Mixture Model (GMM)
+- [Neural Network](./notebooks/neural-network.ipynb)
 - Recommender Systems
   - Collaborative Filtering
   - Content-Based Filtering
