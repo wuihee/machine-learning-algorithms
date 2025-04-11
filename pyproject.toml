@@ -1,21 +1,14 @@
-[tool.poetry]
-name = "mlagos"
+[project]
+name = "machine-learning-algorithms"
 version = "0.1.0"
-description = "Machine learning algorithms from scratch with Python."
-authors = ["wuihee <wuihee@gmail.com>"]
-license = "MIT"
+description = "Add your description here"
 readme = "README.md"
-
-[tool.poetry.dependencies]
-python = "^3.11"
-numpy = "^1.26.4"
-matplotlib = "^3.9.0"
-pandas = "^2.2.2"
-scikit-learn = "^1.5.0"
-jupyter = "^1.0.0"
-seaborn = "^0.13.2"
-
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.4",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+]
